@@ -1,27 +1,28 @@
-# AI Credit Risk Dashboard
+# CreditSense AI
 
-A Machine Learning based Credit Risk Prediction System built using:
-
-- Python
-- Streamlit
-- Scikit-Learn
-- Random Forest Classifier
+An AI-powered credit risk assessment dashboard built using Machine Learning, Streamlit, Plotly, and XGBoost.
 
 ## Features
+- Real-time credit risk prediction
+- Interactive fintech dashboard
+- Risk gauge visualization
+- Payment vs bill analytics
+- Repayment heatmap
+- Professional UI/UX
 
-- Predict customer creditworthiness
-- Modern fintech dashboard UI
-- Risk probability analysis
-- Interactive inputs
-- Glassmorphism design
+## Tech Stack
+- Python
+- Streamlit
+- Scikit-learn
+- XGBoost
+- Plotly
 
-## ML Models Used
-
-- Logistic Regression
-- Decision Tree
-- Random Forest
+## Live Demo
+[Your Streamlit Link]
 
 ## Run Locally
 
-```bash
+pip install -r requirements.txt
+
+## Bash
 streamlit run app.py
